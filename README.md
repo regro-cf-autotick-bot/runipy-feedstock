@@ -5,7 +5,7 @@ Home: https://github.com/paulgb/runipy
 
 Package license: BSD License
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Run IPython notebooks from the command line
 
@@ -72,6 +72,11 @@ Current build status
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/runipy-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/runipy-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/runipy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/runipy-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/runipy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/runipy-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/version.svg)](https://anaconda.org/conda-forge/runipy)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/downloads.svg)](https://anaconda.org/conda-forge/runipy)
 
 
 Updating runipy-feedstock
