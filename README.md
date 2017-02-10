@@ -11,6 +11,18 @@ Summary: Run IPython notebooks from the command line
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/runipy-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/runipy-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/runipy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/runipy-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/runipy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/runipy-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/version.svg)](https://anaconda.org/conda-forge/runipy)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/downloads.svg)](https://anaconda.org/conda-forge/runipy)
+
 Installing runipy
 =================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `runipy` available on your platfor
 ```
 conda search runipy --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/runipy-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/runipy-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/runipy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/runipy-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/runipy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/runipy-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/version.svg)](https://anaconda.org/conda-forge/runipy)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/runipy/badges/downloads.svg)](https://anaconda.org/conda-forge/runipy)
 
 
 Updating runipy-feedstock
