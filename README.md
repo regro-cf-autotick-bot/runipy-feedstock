@@ -3,7 +3,7 @@ About runipy
 
 Home: https://github.com/paulgb/runipy
 
-Package license: BSD License
+Package license: BSD 2-Clause
 
 Feedstock license: BSD 3-Clause
 
