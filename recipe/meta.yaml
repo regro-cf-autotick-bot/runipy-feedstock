@@ -10,7 +10,7 @@ source:
   md5: afef5be6b8103b9d7f5ba9d086f25d53
 
 build:
-  number: 0
+  number: 1
   entry_points:
     - runipy = runipy.main:main
 
@@ -45,7 +45,8 @@ test:
 
 about:
   home: https://github.com/paulgb/runipy
-  license: BSD License
+  license: BSD 2-Clause
+  license_file: LICENSE
   summary: 'Run IPython notebooks from the command line'
 
 extra:
