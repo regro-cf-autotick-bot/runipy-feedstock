@@ -10,12 +10,14 @@ source:
   md5: afef5be6b8103b9d7f5ba9d086f25d53
 
 build:
-  number: 1
+  noarch: python
+  number: 2
   entry_points:
     - runipy = runipy.main:main
 
 requirements:
-  build:
+  host:
+    - pip
     - python
     - setuptools
     - jinja2 >=2.7.2
